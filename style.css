@@ -101,3 +101,8 @@ body {
     text-align: justify;
     color: #7e7e7e;
   }
+
+  ul:not(.intro) {
+    text-align: justify;
+    color: #7e7e7e;
+  }
